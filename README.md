@@ -18,9 +18,18 @@ Nuestro proyecto consistirá en un programa interactivo *point & click* en donde
 * [WebGl](https://get.webgl.org/)
 
 
+<!-- instructions -->
+### Instructions 
 
+download the build in test builds and download the latest version, when downloaded run the index.html. 
 
+if you run into problems that the browser does not support opening webgl from urls try running it from a server 
 
+e.g. with python 
+in terminal write
+ python -m http.server --cgi 8360 
+then in browser go to http://localhost:8360/
+and find the test build in your directory 
 
 <!-- CONTACT -->
 ## Contact
