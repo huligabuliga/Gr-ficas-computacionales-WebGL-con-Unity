@@ -16,7 +16,7 @@ Nuestro proyecto consistirá en un programa interactivo *point & click* en donde
 <!-- Built With -->
 ### Built With 
 * [Unity](https://docs.unity3d.com/Manual/index.html)
-* [JQuery](https://get.webgl.org/)
+* [WebGl](https://get.webgl.org/)
 
 
 
