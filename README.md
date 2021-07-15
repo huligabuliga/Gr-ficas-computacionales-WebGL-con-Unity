@@ -20,3 +20,12 @@ Nuestro proyecto consistirá en un programa interactivo *point & click* en donde
 
 
 
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Jonas - [huligabuliga](https://github.com/huligabuliga) - A00825449@itesm.mx
+
+Project Link: [https://github.com/huligabuliga/Gr-ficas-computacionales-WebGL-con-Unity](https://github.com/huligabuliga/Gr-ficas-computacionales-WebGL-con-Unity) 
