@@ -1,6 +1,6 @@
 # Gráficas computacionales Proyecto Final
 
-A00825449 Jonas Tobias Clausen
+<br> A00825449 Jonas Tobias Clausen
 <br> A01634943 José Fausto Rodriguez
 <br> A00822952 Miguel Angel Peralta
 
@@ -27,5 +27,8 @@ Nuestro proyecto consistirá en un programa interactivo *point & click* en donde
 ## Contact
 
 Jonas - [huligabuliga](https://github.com/huligabuliga) - A00825449@itesm.mx
+José Fausto - [FaustoRodriguez](https://github.com/FaustoRodriguez) - A01634943@itesm.mx
+Miguel Angel - [miguelperaltapz](https://github.com/miguelperaltapz) - A00822952@itesm.mx
+
 
 Project Link: [https://github.com/huligabuliga/Gr-ficas-computacionales-WebGL-con-Unity](https://github.com/huligabuliga/Gr-ficas-computacionales-WebGL-con-Unity) 
