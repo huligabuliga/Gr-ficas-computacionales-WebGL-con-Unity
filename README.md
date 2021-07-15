@@ -1,7 +1,7 @@
 # Gráficas computacionales Proyecto Final
 
 A00825449 Jonas Tobias Clausen
-A01634943 José Fausto Rodriguez
+<br> A01634943 José Fausto Rodriguez
 
 
 
