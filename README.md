@@ -23,7 +23,7 @@ Nuestro proyecto consistirá en un programa interactivo *point & click* en donde
 
 download the build in test builds and download the latest version, when downloaded run the index.html. 
 
-if you run into problems that the browser does not support opening webgl from urls try running it from a server 
+if you run into problems that the browser does not support opening webgl from urls try running it from a local server 
 
 e.g. with python 
 in terminal write
