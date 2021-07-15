@@ -1,6 +1,5 @@
 # Gráficas computacionales Proyecto Final
-
-<br> A00825449 Jonas Tobias Clausen
+ A00825449 Jonas Tobias Clausen
 <br> A01634943 José Fausto Rodriguez
 <br> A00822952 Miguel Angel Peralta
 
@@ -25,8 +24,7 @@ Nuestro proyecto consistirá en un programa interactivo *point & click* en donde
 
 <!-- CONTACT -->
 ## Contact
-
-<br> Jonas - [huligabuliga](https://github.com/huligabuliga) - A00825449@itesm.mx
+ Jonas - [huligabuliga](https://github.com/huligabuliga) - A00825449@itesm.mx
 <br> José Fausto - [FaustoRodriguez](https://github.com/FaustoRodriguez) - A01634943@itesm.mx
 <br> Miguel Angel - [miguelperaltapz](https://github.com/miguelperaltapz) - A00822952@itesm.mx
 
