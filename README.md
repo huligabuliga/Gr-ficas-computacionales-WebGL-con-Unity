@@ -37,5 +37,9 @@ and find the test build in your directory
 <br> José Fausto - [FaustoRodriguez](https://github.com/FaustoRodriguez) - A01634943@itesm.mx
 <br> Miguel Angel - [miguelperaltapz](https://github.com/miguelperaltapz) - A00822952@itesm.mx
 
+<!-- Imported assets -->
+## assets used
+[Table - MASH Virtual](https://assetstore.unity.com/packages/3d/props/furniture/table-162871)
+<br> [Rust key - Aleksn09](https://assetstore.unity.com/packages/3d/props/rust-key-167590) 
 
 Project Link: [https://github.com/huligabuliga/Gr-ficas-computacionales-WebGL-con-Unity](https://github.com/huligabuliga/Gr-ficas-computacionales-WebGL-con-Unity) 
