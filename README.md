@@ -20,7 +20,7 @@ Nuestro proyecto consistirá en un programa interactivo *point & click* en donde
 
 <!-- instructions -->
 ### Instructions 
-download the build in test builds and download the latest version (TestBuilds/FinalBuild), when downloaded run the index.html. 
+download the build in test builds and download the latest version (Test Builds/FinalBuild), when downloaded run the index.html. 
 
 if you run into problems that the browser does not support opening webgl from urls try running it from a local server 
 
