@@ -32,7 +32,6 @@ public class objectMovement : MonoBehaviour
         return Camera.main.ScreenToWorldPoint(mousePoint);
     }
     void OnMouseDrag()
-
     {
         transform.position = GetMouseAsWorldPoint() + mOffset;
     }
